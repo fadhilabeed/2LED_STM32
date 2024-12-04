@@ -1,4 +1,4 @@
-**Exercise 4: Understanding Task Behavior with Priority Preemptive Scheduling**
+## **Exercise 4: Understanding Task Behavior with Priority Preemptive Scheduling**
 
 **Overview**
 Exercise 4 in the book focuses on understanding the behavior of tasks under a priority-preemptive scheduling policy using FreeRTOS. This exercise demonstrates how tasks interact when their execution order and CPU access are determined by assigned priorities.
@@ -53,6 +53,11 @@ Both tasks demonstrate preemptive scheduling, as the FreeRTOS kernel ensures tha
 **Extensions**
 - Modify priorities dynamically during runtime to further explore preemption.
 - Introduce additional tasks or use synchronization primitives like semaphores for resource sharing.
+
+## Demonstration Video
+
+Watch the demonstration video [here](https://drive.google.com/file/d/1UqSaFDJI6dtTvKUIfauODPFLVYQzVFBJ/view?usp=drive_link).
+
 
 **References**
 - **Book**: Jim Cooling - Real-time Operating Systems Book 2: The Practice.
